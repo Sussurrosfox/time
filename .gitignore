@@ -1,0 +1,13 @@
+# Sensitive and backup files
+apis.csv
+private-backup/
+*.env
+.venv/
+__pycache__/
+failure.csv
+
+# Editor and temporary files
+.vscode/
+*.pyc
+.DS_Store
+Thumbs.db
