@@ -1,0 +1,32 @@
+{
+  "id": "018",
+  "source_dir": "18",
+  "title": "第十一节 生产力分析工作与原始此在的阐释。获得“自然的世界概念”之困难",
+  "raw_file": "raw.txt",
+  "segments": [
+    {
+      "id": "003",
+      "source": "segments/003.txt",
+      "solution": "segments/003_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "004",
+      "source": "segments/004.txt",
+      "solution": "segments/004_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "005",
+      "source": "segments/005.txt",
+      "solution": "segments/005_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "006",
+      "source": "segments/006.txt",
+      "solution": "segments/006_solution.md",
+      "status": "paired"
+    }
+  ]
+}

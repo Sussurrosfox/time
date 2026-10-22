@@ -1,0 +1,86 @@
+{
+  "id": "043",
+  "source_dir": "43",
+  "title": "第三十二节 领会与解释",
+  "raw_file": "raw.txt",
+  "segments": [
+    {
+      "id": "003",
+      "source": "segments/003.txt",
+      "solution": "segments/003_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "004",
+      "source": "segments/004.txt",
+      "solution": "segments/004_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "005",
+      "source": "segments/005.txt",
+      "solution": "segments/005_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "006",
+      "source": "segments/006.txt",
+      "solution": "segments/006_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "007",
+      "source": "segments/007.txt",
+      "solution": "segments/007_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "008",
+      "source": "segments/008.txt",
+      "solution": "segments/008_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "009",
+      "source": "segments/009.txt",
+      "solution": "segments/009_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "010",
+      "source": "segments/010.txt",
+      "solution": "segments/010_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "011",
+      "source": "segments/011.txt",
+      "solution": "segments/011_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "012",
+      "source": "segments/012.txt",
+      "solution": "segments/012_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "013",
+      "source": "segments/013.txt",
+      "solution": "segments/013_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "014",
+      "source": "segments/014.txt",
+      "solution": "segments/014_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "015",
+      "source": "segments/015.txt",
+      "solution": "segments/015_solution.md",
+      "status": "paired"
+    }
+  ]
+}

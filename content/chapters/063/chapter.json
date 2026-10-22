@@ -1,0 +1,56 @@
+{
+  "id": "063",
+  "source_dir": "63",
+  "title": "第四十九节 生存论的死亡分析与对这一现象的其它种种可能阐释的界划",
+  "raw_file": "raw.txt",
+  "segments": [
+    {
+      "id": "003",
+      "source": "segments/003.txt",
+      "solution": "segments/003_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "004",
+      "source": "segments/004.txt",
+      "solution": "segments/004_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "005",
+      "source": "segments/005.txt",
+      "solution": "segments/005_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "006",
+      "source": "segments/006.txt",
+      "solution": "segments/006_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "007",
+      "source": "segments/007.txt",
+      "solution": "segments/007_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "008",
+      "source": "segments/008.txt",
+      "solution": "segments/008_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "009",
+      "source": "segments/009.txt",
+      "solution": "segments/009_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "010",
+      "source": "segments/010.txt",
+      "solution": "segments/010_solution.md",
+      "status": "paired"
+    }
+  ]
+}

@@ -1,0 +1,841 @@
+{
+  "title": "《存在与时间》研读与逐段解析",
+  "description": "海德格尔《存在与时间》中文译本分段原文、逐段深度解析与义理阐释",
+  "total_chapters": 83,
+  "total_segments": 1284,
+  "total_paired": 1284,
+  "total_missing_source": 0,
+  "total_missing_solution": 0,
+  "chapters": [
+    {
+      "id": "004",
+      "source_dir": "4",
+      "title": "第一节 突出地重提存在问题的必要性",
+      "raw_file": "chapters/004/raw.txt",
+      "segment_count": 8,
+      "paired_count": 8,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "005",
+      "source_dir": "5",
+      "title": "第二节 存在问题的形式结构",
+      "raw_file": "chapters/005/raw.txt",
+      "segment_count": 12,
+      "paired_count": 12,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "006",
+      "source_dir": "6",
+      "title": "第三节 存在问题在存在论上的优先地位",
+      "raw_file": "chapters/006/raw.txt",
+      "segment_count": 9,
+      "paired_count": 9,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "007",
+      "source_dir": "7",
+      "title": "第四节 存在问题在存在者层次上的优先地位",
+      "raw_file": "chapters/007/raw.txt",
+      "segment_count": 13,
+      "paired_count": 13,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "009",
+      "source_dir": "9",
+      "title": "第五节 此在的存在论分析——崭露用以解释一般存在意义的视野",
+      "raw_file": "chapters/009/raw.txt",
+      "segment_count": 14,
+      "paired_count": 14,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "010",
+      "source_dir": "10",
+      "title": "第六节 结构存在论历史的任务",
+      "raw_file": "chapters/010/raw.txt",
+      "segment_count": 20,
+      "paired_count": 20,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "011",
+      "source_dir": "11",
+      "title": "第七节 探索工作的现象学方法",
+      "raw_file": "chapters/011/raw.txt",
+      "segment_count": 41,
+      "paired_count": 41,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "012",
+      "source_dir": "12",
+      "title": "第八节 本书纲目的构思",
+      "raw_file": "chapters/012/raw.txt",
+      "segment_count": 2,
+      "paired_count": 2,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "016",
+      "source_dir": "16",
+      "title": "第九节 此在分析的课题",
+      "raw_file": "chapters/016/raw.txt",
+      "segment_count": 12,
+      "paired_count": 12,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "017",
+      "source_dir": "17",
+      "title": "第十节 此在分析与人类学、心理学、生物学之间的界划",
+      "raw_file": "chapters/017/raw.txt",
+      "segment_count": 11,
+      "paired_count": 11,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "018",
+      "source_dir": "18",
+      "title": "第十一节 生产力分析工作与原始此在的阐释。获得“自然的世界概念”之困难",
+      "raw_file": "chapters/018/raw.txt",
+      "segment_count": 4,
+      "paired_count": 4,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "020",
+      "source_dir": "20",
+      "title": "第十二节 依循“在之中”本身制订方向，从而草描出“在世界之中存在”",
+      "raw_file": "chapters/020/raw.txt",
+      "segment_count": 17,
+      "paired_count": 17,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "021",
+      "source_dir": "21",
+      "title": "第十三节 以一种另有基础的样式为例说明“在之中”。对世界的认识",
+      "raw_file": "chapters/021/raw.txt",
+      "segment_count": 6,
+      "paired_count": 6,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "023",
+      "source_dir": "23",
+      "title": "第十四节 一般世界之为世界的观念",
+      "raw_file": "chapters/023/raw.txt",
+      "segment_count": 16,
+      "paired_count": 16,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "024",
+      "source_dir": "24",
+      "title": "第十五节 在周围世界中照面的存在者的存在",
+      "raw_file": "chapters/024/raw.txt",
+      "segment_count": 14,
+      "paired_count": 14,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "025",
+      "source_dir": "25",
+      "title": "第十六节 在世内存在者身上呈报出来的周围世界的合世界性",
+      "raw_file": "chapters/025/raw.txt",
+      "segment_count": 15,
+      "paired_count": 15,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "026",
+      "source_dir": "26",
+      "title": "第十七节 指引与标志",
+      "raw_file": "chapters/026/raw.txt",
+      "segment_count": 15,
+      "paired_count": 15,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "027",
+      "source_dir": "27",
+      "title": "第十八节 因缘与意蕴，世界之为世界",
+      "raw_file": "chapters/027/raw.txt",
+      "segment_count": 19,
+      "paired_count": 19,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "028",
+      "source_dir": "28",
+      "title": "第十九节 “世界”之被规定为res extensa",
+      "raw_file": "chapters/028/raw.txt",
+      "segment_count": 4,
+      "paired_count": 4,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "029",
+      "source_dir": "29",
+      "title": "第二十节 “世界”的这一存在论规定的基础",
+      "raw_file": "chapters/029/raw.txt",
+      "segment_count": 5,
+      "paired_count": 5,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "030",
+      "source_dir": "30",
+      "title": "第二十一节 用诠释学方法讨论笛卡尔的“世界”存在论",
+      "raw_file": "chapters/030/raw.txt",
+      "segment_count": 26,
+      "paired_count": 26,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "031",
+      "source_dir": "31",
+      "title": "第二十二节 世内上到手头的东西的空间性",
+      "raw_file": "chapters/031/raw.txt",
+      "segment_count": 6,
+      "paired_count": 6,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "032",
+      "source_dir": "32",
+      "title": "第二十三节 在世界之中存在的空间性",
+      "raw_file": "chapters/032/raw.txt",
+      "segment_count": 14,
+      "paired_count": 14,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "033",
+      "source_dir": "33",
+      "title": "第二十四节 此在的空间性，空间",
+      "raw_file": "chapters/033/raw.txt",
+      "segment_count": 9,
+      "paired_count": 9,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "035",
+      "source_dir": "35",
+      "title": "第二十五节 此在为谁这一生存论问题的着手点",
+      "raw_file": "chapters/035/raw.txt",
+      "segment_count": 9,
+      "paired_count": 9,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "036",
+      "source_dir": "36",
+      "title": "第二十六节 他人的共同此在与日常的共同存在",
+      "raw_file": "chapters/036/raw.txt",
+      "segment_count": 26,
+      "paired_count": 26,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "037",
+      "source_dir": "37",
+      "title": "第二十七节 日常自己存在与常人",
+      "raw_file": "chapters/037/raw.txt",
+      "segment_count": 19,
+      "paired_count": 19,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "039",
+      "source_dir": "39",
+      "title": "第二十八节 专题分析“在之中”的任务",
+      "raw_file": "chapters/039/raw.txt",
+      "segment_count": 13,
+      "paired_count": 13,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "040",
+      "source_dir": "40",
+      "title": "第二十九节 在此——作为现身情态",
+      "raw_file": "chapters/040/raw.txt",
+      "segment_count": 18,
+      "paired_count": 18,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "041",
+      "source_dir": "41",
+      "title": "第三十节 现身的样式之一——怕",
+      "raw_file": "chapters/041/raw.txt",
+      "segment_count": 8,
+      "paired_count": 8,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "042",
+      "source_dir": "42",
+      "title": "第三十一节 在此——作为领会",
+      "raw_file": "chapters/042/raw.txt",
+      "segment_count": 18,
+      "paired_count": 18,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "043",
+      "source_dir": "43",
+      "title": "第三十二节 领会与解释",
+      "raw_file": "chapters/043/raw.txt",
+      "segment_count": 13,
+      "paired_count": 13,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "044",
+      "source_dir": "44",
+      "title": "第三十三节 命题—解释的衍生样式",
+      "raw_file": "chapters/044/raw.txt",
+      "segment_count": 18,
+      "paired_count": 18,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "045",
+      "source_dir": "45",
+      "title": "第三十四节 在此与话语，语言",
+      "raw_file": "chapters/045/raw.txt",
+      "segment_count": 24,
+      "paired_count": 24,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "046",
+      "source_dir": "46",
+      "title": "第三十五节 闲言",
+      "raw_file": "chapters/046/raw.txt",
+      "segment_count": 11,
+      "paired_count": 11,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "047",
+      "source_dir": "47",
+      "title": "第三十六节 好奇",
+      "raw_file": "chapters/047/raw.txt",
+      "segment_count": 8,
+      "paired_count": 8,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "048",
+      "source_dir": "48",
+      "title": "第三十七节 两可",
+      "raw_file": "chapters/048/raw.txt",
+      "segment_count": 8,
+      "paired_count": 8,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "049",
+      "source_dir": "49",
+      "title": "第三十八节 沉沦与被抛",
+      "raw_file": "chapters/049/raw.txt",
+      "segment_count": 20,
+      "paired_count": 20,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "051",
+      "source_dir": "51",
+      "title": "第三十九节 此在结构整体的源始整体性问题",
+      "raw_file": "chapters/051/raw.txt",
+      "segment_count": 10,
+      "paired_count": 10,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "052",
+      "source_dir": "52",
+      "title": "第四十节 “畏”这一基本现身情态作为此在别具一格的展开状态",
+      "raw_file": "chapters/052/raw.txt",
+      "segment_count": 23,
+      "paired_count": 23,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "053",
+      "source_dir": "53",
+      "title": "第四十一节 此在之存在——操心",
+      "raw_file": "chapters/053/raw.txt",
+      "segment_count": 19,
+      "paired_count": 19,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "054",
+      "source_dir": "54",
+      "title": "第四十二节 由先于存在论的此在自我解释验证此在之为操心的生存论阐释",
+      "raw_file": "chapters/054/raw.txt",
+      "segment_count": 11,
+      "paired_count": 11,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "055",
+      "source_dir": "55",
+      "title": "第四十三节 此在、世界之为世界、实在",
+      "raw_file": "chapters/055/raw.txt",
+      "segment_count": 36,
+      "paired_count": 36,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "056",
+      "source_dir": "56",
+      "title": "第四十四节 此在、展开状态、真理",
+      "raw_file": "chapters/056/raw.txt",
+      "segment_count": 65,
+      "paired_count": 65,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "058",
+      "source_dir": "58",
+      "title": "第四十五节 准备性的此在基础分析的结果",
+      "raw_file": "chapters/058/raw.txt",
+      "segment_count": 16,
+      "paired_count": 16,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "060",
+      "source_dir": "60",
+      "title": "第四十六节 从存在论上把握和规定此在式的整体存在的表面上的不可能性",
+      "raw_file": "chapters/060/raw.txt",
+      "segment_count": 6,
+      "paired_count": 6,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "061",
+      "source_dir": "61",
+      "title": "第四十七节 他人死亡的可经验性与把握某种整体此在的可能性",
+      "raw_file": "chapters/061/raw.txt",
+      "segment_count": 16,
+      "paired_count": 16,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "062",
+      "source_dir": "62",
+      "title": "第四十八节 亏欠、终结与整体性",
+      "raw_file": "chapters/062/raw.txt",
+      "segment_count": 19,
+      "paired_count": 19,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "063",
+      "source_dir": "63",
+      "title": "第四十九节 生存论的死亡分析与对这一现象的其它种种可能阐释的界划",
+      "raw_file": "chapters/063/raw.txt",
+      "segment_count": 8,
+      "paired_count": 8,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "064",
+      "source_dir": "64",
+      "title": "第五十节 标画生存论存在论的死亡结构的工作",
+      "raw_file": "chapters/064/raw.txt",
+      "segment_count": 9,
+      "paired_count": 9,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "065",
+      "source_dir": "65",
+      "title": "第五十一节 向死存在与此在的日常状态",
+      "raw_file": "chapters/065/raw.txt",
+      "segment_count": 7,
+      "paired_count": 7,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "066",
+      "source_dir": "66",
+      "title": "第五十二节 常的向死存在与充分的生存论死亡概念",
+      "raw_file": "chapters/066/raw.txt",
+      "segment_count": 17,
+      "paired_count": 17,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "067",
+      "source_dir": "67",
+      "title": "第五十三节 本真的向死存在的生存论筹划",
+      "raw_file": "chapters/067/raw.txt",
+      "segment_count": 19,
+      "paired_count": 19,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "069",
+      "source_dir": "69",
+      "title": "第五十四节 一种本真的生存上的可能性的见证问题",
+      "raw_file": "chapters/069/raw.txt",
+      "segment_count": 9,
+      "paired_count": 9,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "070",
+      "source_dir": "70",
+      "title": "第五十五节 良知的生存论存在论基础",
+      "raw_file": "chapters/070/raw.txt",
+      "segment_count": 4,
+      "paired_count": 4,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "071",
+      "source_dir": "71",
+      "title": "第五十六节 良知的呼声性质",
+      "raw_file": "chapters/071/raw.txt",
+      "segment_count": 9,
+      "paired_count": 9,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "072",
+      "source_dir": "72",
+      "title": "第五十七节 良知之为操心的呼声",
+      "raw_file": "chapters/072/raw.txt",
+      "segment_count": 20,
+      "paired_count": 20,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "073",
+      "source_dir": "73",
+      "title": "第五十八节 召唤之领会，罪责",
+      "raw_file": "chapters/073/raw.txt",
+      "segment_count": 31,
+      "paired_count": 31,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "074",
+      "source_dir": "74",
+      "title": "第五十九节 生存论的良知阐释与流俗的良知解释",
+      "raw_file": "chapters/074/raw.txt",
+      "segment_count": 18,
+      "paired_count": 18,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "075",
+      "source_dir": "75",
+      "title": "第六十节 在良知中得以见证的本真能在的生存论结构",
+      "raw_file": "chapters/075/raw.txt",
+      "segment_count": 17,
+      "paired_count": 17,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "077",
+      "source_dir": "77",
+      "title": "第六十一节 从对此在式的本真整体存在的界说到对时间性的现象剖析",
+      "raw_file": "chapters/077/raw.txt",
+      "segment_count": 10,
+      "paired_count": 10,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "078",
+      "source_dir": "78",
+      "title": "第六十二节 生存上的此在的本真整体能在即先行的决心",
+      "raw_file": "chapters/078/raw.txt",
+      "segment_count": 15,
+      "paired_count": 15,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "079",
+      "source_dir": "79",
+      "title": "第六十三节 为阐释操心的存在意义所获得的诠释学处境",
+      "raw_file": "chapters/079/raw.txt",
+      "segment_count": 18,
+      "paired_count": 18,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "080",
+      "source_dir": "80",
+      "title": "第六十四节 操心与自身性",
+      "raw_file": "chapters/080/raw.txt",
+      "segment_count": 14,
+      "paired_count": 14,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "081",
+      "source_dir": "81",
+      "title": "第六十五节 时间性之为操心的存在论意义",
+      "raw_file": "chapters/081/raw.txt",
+      "segment_count": 22,
+      "paired_count": 22,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "082",
+      "source_dir": "82",
+      "title": "第六十六节 此在的时间性与由之发源的更源始地重演生存论分析的任务",
+      "raw_file": "chapters/082/raw.txt",
+      "segment_count": 6,
+      "paired_count": 6,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "084",
+      "source_dir": "84",
+      "title": "第六十七节 此在生存论建构的基本内容及其时间性阐释的草描",
+      "raw_file": "chapters/084/raw.txt",
+      "segment_count": 4,
+      "paired_count": 4,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "085",
+      "source_dir": "85",
+      "title": "第六十八节 一般展开状态的时间性",
+      "raw_file": "chapters/085/raw.txt",
+      "segment_count": 40,
+      "paired_count": 40,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "086",
+      "source_dir": "86",
+      "title": "第六十九节 在世的时间性与世界的超越问题",
+      "raw_file": "chapters/086/raw.txt",
+      "segment_count": 43,
+      "paired_count": 43,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "087",
+      "source_dir": "87",
+      "title": "第七十节 此在式空间性的时间性",
+      "raw_file": "chapters/087/raw.txt",
+      "segment_count": 7,
+      "paired_count": 7,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "088",
+      "source_dir": "88",
+      "title": "第七十一节 此在日常状态的时间性意义",
+      "raw_file": "chapters/088/raw.txt",
+      "segment_count": 9,
+      "paired_count": 9,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "090",
+      "source_dir": "90",
+      "title": "第七十二节 历史问题的生存论存在论解说",
+      "raw_file": "chapters/090/raw.txt",
+      "segment_count": 19,
+      "paired_count": 19,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "091",
+      "source_dir": "91",
+      "title": "第七十三节 流俗的历史领会与此在的演历",
+      "raw_file": "chapters/091/raw.txt",
+      "segment_count": 15,
+      "paired_count": 15,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "092",
+      "source_dir": "92",
+      "title": "第七十四节 历史性的基本建构",
+      "raw_file": "chapters/092/raw.txt",
+      "segment_count": 14,
+      "paired_count": 14,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "093",
+      "source_dir": "93",
+      "title": "第七十五节 此在的历史性与世界历史",
+      "raw_file": "chapters/093/raw.txt",
+      "segment_count": 9,
+      "paired_count": 9,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "094",
+      "source_dir": "94",
+      "title": "第七十六节 历史学在此在历史性中的生存论源头",
+      "raw_file": "chapters/094/raw.txt",
+      "segment_count": 15,
+      "paired_count": 15,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "095",
+      "source_dir": "95",
+      "title": "第七十七节 此处对历史性问题的讲解与狄尔泰的研究及约克伯爵的观念的联系",
+      "raw_file": "chapters/095/raw.txt",
+      "segment_count": 18,
+      "paired_count": 18,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "097",
+      "source_dir": "97",
+      "title": "第七十八节 前面的此在时间性分析之不充分",
+      "raw_file": "chapters/097/raw.txt",
+      "segment_count": 7,
+      "paired_count": 7,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "098",
+      "source_dir": "98",
+      "title": "第七十九节 此在的时间性与对时间的操劳",
+      "raw_file": "chapters/098/raw.txt",
+      "segment_count": 12,
+      "paired_count": 12,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "099",
+      "source_dir": "99",
+      "title": "第八十节 被操劳的时间与时间内状态",
+      "raw_file": "chapters/099/raw.txt",
+      "segment_count": 24,
+      "paired_count": 24,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "100",
+      "source_dir": "100",
+      "title": "第八十一节 时间内状态与流俗时间概念的发生",
+      "raw_file": "chapters/100/raw.txt",
+      "segment_count": 15,
+      "paired_count": 15,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "101",
+      "source_dir": "101",
+      "title": "第八十二节 针对黑格尔对时间与精神的关系的看法崭露出",
+      "raw_file": "chapters/101/raw.txt",
+      "segment_count": 25,
+      "paired_count": 25,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    },
+    {
+      "id": "102",
+      "source_dir": "102",
+      "title": "第八十三节 生存论时间性上的此在分析与基础存在论上的一般存在意义问题",
+      "raw_file": "chapters/102/raw.txt",
+      "segment_count": 9,
+      "paired_count": 9,
+      "missing_source_count": 0,
+      "missing_solution_count": 0
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "id": "056",
+  "source_dir": "56",
+  "title": "第四十四节 此在、展开状态、真理",
+  "raw_file": "raw.txt",
+  "segments": [
+    {
+      "id": "003",
+      "source": "segments/003.txt",
+      "solution": "segments/003_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "004",
+      "source": "segments/004.txt",
+      "solution": "segments/004_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "005",
+      "source": "segments/005.txt",
+      "solution": "segments/005_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "006",
+      "source": "segments/006.txt",
+      "solution": "segments/006_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "007",
+      "source": "segments/007.txt",
+      "solution": "segments/007_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "008",
+      "source": "segments/008.txt",
+      "solution": "segments/008_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "009",
+      "source": "segments/009.txt",
+      "solution": "segments/009_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "010",
+      "source": "segments/010.txt",
+      "solution": "segments/010_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "011",
+      "source": "segments/011.txt",
+      "solution": "segments/011_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "012",
+      "source": "segments/012.txt",
+      "solution": "segments/012_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "013",
+      "source": "segments/013.txt",
+      "solution": "segments/013_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "014",
+      "source": "segments/014.txt",
+      "solution": "segments/014_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "015",
+      "source": "segments/015.txt",
+      "solution": "segments/015_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "016",
+      "source": "segments/016.txt",
+      "solution": "segments/016_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "017",
+      "source": "segments/017.txt",
+      "solution": "segments/017_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "018",
+      "source": "segments/018.txt",
+      "solution": "segments/018_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "019",
+      "source": "segments/019.txt",
+      "solution": "segments/019_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "020",
+      "source": "segments/020.txt",
+      "solution": "segments/020_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "021",
+      "source": "segments/021.txt",
+      "solution": "segments/021_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "022",
+      "source": "segments/022.txt",
+      "solution": "segments/022_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "023",
+      "source": "segments/023.txt",
+      "solution": "segments/023_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "024",
+      "source": "segments/024.txt",
+      "solution": "segments/024_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "025",
+      "source": "segments/025.txt",
+      "solution": "segments/025_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "026",
+      "source": "segments/026.txt",
+      "solution": "segments/026_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "027",
+      "source": "segments/027.txt",
+      "solution": "segments/027_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "028",
+      "source": "segments/028.txt",
+      "solution": "segments/028_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "029",
+      "source": "segments/029.txt",
+      "solution": "segments/029_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "030",
+      "source": "segments/030.txt",
+      "solution": "segments/030_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "031",
+      "source": "segments/031.txt",
+      "solution": "segments/031_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "032",
+      "source": "segments/032.txt",
+      "solution": "segments/032_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "033",
+      "source": "segments/033.txt",
+      "solution": "segments/033_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "034",
+      "source": "segments/034.txt",
+      "solution": "segments/034_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "035",
+      "source": "segments/035.txt",
+      "solution": "segments/035_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "036",
+      "source": "segments/036.txt",
+      "solution": "segments/036_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "037",
+      "source": "segments/037.txt",
+      "solution": "segments/037_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "038",
+      "source": "segments/038.txt",
+      "solution": "segments/038_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "039",
+      "source": "segments/039.txt",
+      "solution": "segments/039_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "040",
+      "source": "segments/040.txt",
+      "solution": "segments/040_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "041",
+      "source": "segments/041.txt",
+      "solution": "segments/041_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "042",
+      "source": "segments/042.txt",
+      "solution": "segments/042_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "043",
+      "source": "segments/043.txt",
+      "solution": "segments/043_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "044",
+      "source": "segments/044.txt",
+      "solution": "segments/044_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "045",
+      "source": "segments/045.txt",
+      "solution": "segments/045_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "046",
+      "source": "segments/046.txt",
+      "solution": "segments/046_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "047",
+      "source": "segments/047.txt",
+      "solution": "segments/047_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "048",
+      "source": "segments/048.txt",
+      "solution": "segments/048_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "049",
+      "source": "segments/049.txt",
+      "solution": "segments/049_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "050",
+      "source": "segments/050.txt",
+      "solution": "segments/050_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "051",
+      "source": "segments/051.txt",
+      "solution": "segments/051_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "052",
+      "source": "segments/052.txt",
+      "solution": "segments/052_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "053",
+      "source": "segments/053.txt",
+      "solution": "segments/053_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "054",
+      "source": "segments/054.txt",
+      "solution": "segments/054_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "055",
+      "source": "segments/055.txt",
+      "solution": "segments/055_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "056",
+      "source": "segments/056.txt",
+      "solution": "segments/056_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "057",
+      "source": "segments/057.txt",
+      "solution": "segments/057_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "058",
+      "source": "segments/058.txt",
+      "solution": "segments/058_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "059",
+      "source": "segments/059.txt",
+      "solution": "segments/059_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "060",
+      "source": "segments/060.txt",
+      "solution": "segments/060_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "061",
+      "source": "segments/061.txt",
+      "solution": "segments/061_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "062",
+      "source": "segments/062.txt",
+      "solution": "segments/062_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "063",
+      "source": "segments/063.txt",
+      "solution": "segments/063_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "064",
+      "source": "segments/064.txt",
+      "solution": "segments/064_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "065",
+      "source": "segments/065.txt",
+      "solution": "segments/065_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "066",
+      "source": "segments/066.txt",
+      "solution": "segments/066_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "067",
+      "source": "segments/067.txt",
+      "solution": "segments/067_solution.md",
+      "status": "paired"
+    }
+  ]
+}

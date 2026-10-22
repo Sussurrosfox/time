@@ -1,0 +1,44 @@
+{
+  "id": "021",
+  "source_dir": "21",
+  "title": "第十三节 以一种另有基础的样式为例说明“在之中”。对世界的认识",
+  "raw_file": "raw.txt",
+  "segments": [
+    {
+      "id": "003",
+      "source": "segments/003.txt",
+      "solution": "segments/003_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "004",
+      "source": "segments/004.txt",
+      "solution": "segments/004_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "005",
+      "source": "segments/005.txt",
+      "solution": "segments/005_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "006",
+      "source": "segments/006.txt",
+      "solution": "segments/006_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "007",
+      "source": "segments/007.txt",
+      "solution": "segments/007_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "008",
+      "source": "segments/008.txt",
+      "solution": "segments/008_solution.md",
+      "status": "paired"
+    }
+  ]
+}

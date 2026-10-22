@@ -1,0 +1,20 @@
+{
+  "id": "012",
+  "source_dir": "12",
+  "title": "第八节 本书纲目的构思",
+  "raw_file": "raw.txt",
+  "segments": [
+    {
+      "id": "003",
+      "source": "segments/003.txt",
+      "solution": "segments/003_solution.md",
+      "status": "paired"
+    },
+    {
+      "id": "004",
+      "source": "segments/004.txt",
+      "solution": "segments/004_solution.md",
+      "status": "paired"
+    }
+  ]
+}
